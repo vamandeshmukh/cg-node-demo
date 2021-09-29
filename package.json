@@ -1,0 +1,11 @@
+{
+  "name": "cg-node-demo",
+  "version": "1.0.0",
+  "description": "Node server demo for CG trainees 3 Aug 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaman Deshmukh",
+  "license": "ISC"
+}
