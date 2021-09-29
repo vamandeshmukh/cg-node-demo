@@ -8,7 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "bootstrap": "^5.1.1",
+    "express": "^4.17.1",
+    "some-other": "1.1.1"
   },
   "author": "Vaman Deshmukh",
   "license": "ISC"
