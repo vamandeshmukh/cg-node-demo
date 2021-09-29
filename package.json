@@ -10,7 +10,6 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-
   "author": "Vaman Deshmukh",
   "license": "ISC"
 }
